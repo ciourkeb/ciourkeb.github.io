@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ciourkeb.github.io/sitemap.ciourkeb.gz
+Sitemap: https://ciourkeb.github.io/app/sitemap.ciourkeb.gz
+Sitemap: https://ciourkeb.github.io/assets/sitemap.ciourkeb.gz
+Sitemap: https://ciourkeb.github.io/css/sitemap.ciourkeb.gz
+Sitemap: https://ciourkeb.github.io/data/sitemap.ciourkeb.gz
+Sitemap: https://ciourkeb.github.io/includes/sitemap.ciourkeb.gz
+Sitemap: https://ciourkeb.github.io/item/sitemap.ciourkeb.gz
+Sitemap: https://ciourkeb.github.io/src/sitemap.ciourkeb.gz
